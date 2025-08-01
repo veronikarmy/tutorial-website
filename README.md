@@ -3,7 +3,7 @@
 This is a responsive car leasing website created as part of my frontend learning journey. It includes multiple pages, tab navigation, image cards, a contact form, and a Swiper slider — all styled with CSS and organized using a clean file structure.
 
 🔗 **Live preview:**  
-👉 [https://veronikarmy.github.io/tutorial-site/](https://veronikarmy.github.io/tutorial-site/)
+👉 https://veronikarmy.github.io/tutorial-website/
 
 ---
 
